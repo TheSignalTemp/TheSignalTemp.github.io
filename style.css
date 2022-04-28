@@ -144,12 +144,12 @@ p {
 }
 
 #members .h1 {
-  font-size: 40vh;
+  font-size: 50vh;
   line-height: 25rem;
 }
 
 #members .h3 {
-  font-size: 5rem;
+  font-size: 10vh;
 }
 
 @keyframes flickerAnimation {
@@ -251,7 +251,7 @@ p {
 #anti-resume {
   background-color: #F3F2EF;
   /* background-color: red; */
-  padding: 100px;
+  /* padding: 100px; */
   padding-top: -20px;
   /* height: 120%; */
 }
@@ -330,7 +330,7 @@ p {
 }
 
 .hot-ones-text {
-  font-size: 100px;
+  font-size: 8vmax;
   color: rgba(0, 0, 0, 0);
   -webkit-text-stroke-width: 6px;
   -webkit-text-stroke-color: #FFDC27  ;
@@ -357,7 +357,7 @@ p {
 }
 
 .hot-ones-background {
-  padding: 20px;;
+  padding: 20px;
   border: rgb(243, 89, 89) solid 4px;
   box-shadow: inset 0 0 30px red;
   border-radius: 20px;
@@ -529,7 +529,7 @@ p {
 }
 
 #interviews .h1 {
-  font-size: 30rem;
+  font-size: 40vh;
   line-height: 25rem;;
 }
 
@@ -621,7 +621,7 @@ p {
 
 #social-media h1 {
   font-family: Poppins-Bold;
-  font-size: 7rem;;
+  font-size: 12vh;
 }
 
 #social-media img {
