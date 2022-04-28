@@ -144,7 +144,7 @@ p {
 }
 
 #members .h1 {
-  font-size: 30rem;
+  font-size: 40vh;
   line-height: 25rem;
 }
 
@@ -291,7 +291,7 @@ p {
 
 #anti-resume .h1 {
   /* font-size: 22rem; */
-  font-size: 20vw;
+  font-size: 22vw;
   /* line-height: 25rem; */
   line-height: 25vw;
   color: #2272B4;
@@ -529,12 +529,12 @@ p {
 }
 
 #interviews .h1 {
-  font-size: 40vh;
+  font-size: 30rem;
   line-height: 25rem;;
 }
 
 #interviews .h3 {
-  font-size: 7vh;
+  font-size: 5rem;
 }
 
 #interviews img {
